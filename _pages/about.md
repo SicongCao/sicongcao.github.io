@@ -24,7 +24,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 # 🔥 News
 - *2022.12*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2023**!
-- *2021.02*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2023**!
+- *2021.02*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications 
 
