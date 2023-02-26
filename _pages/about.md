@@ -19,7 +19,7 @@ redirect_from:
 
 I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. Xiaobing Sun. Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
-My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published 6 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE conferences (e.g., ICSE, QRS) and journals (e.g., IST, ESE).
+My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published 6 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, S&P) and journals (e.g., IST, ESE).
 
 
 # 🔥 News
