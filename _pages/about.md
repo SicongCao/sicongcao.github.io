@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. Xiaobing Sun. Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
+I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 6em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. Xiaobing Sun. Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
 My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published 6 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE conferences (e.g., ICSE, QRS) and journals (e.g., IST, ESE).
 
@@ -56,7 +56,7 @@ Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
 # 💬 Invited Talks
-- *2022.11*, Data-Driven Software Vulnerability Detection (优秀博士生论坛), ChinaSoft 2022 (10 students in China each year)
+- *2022.11*, Data-Driven Software Vulnerability Detection (优秀博士生论坛), ChinaSoft 2022 (10 students in China each year).
 
 # 💻 Internships
 - *2022.04 - 2022.06*, [Ant Group, Security FG Group](https://www.antgroup.com/), China.
