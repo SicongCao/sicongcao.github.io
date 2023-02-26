@@ -23,17 +23,19 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
 - *2022.12*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2023**!
 - *2021.12*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications 
 
-- ``ICSE 2023`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li
-- [SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models](https://link.springer.com/article/10.1007/s10664-022-10216-4), Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, **Sicong Cao**, **Empirical Software Engineering (2022)**
-- [MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks](https://dl.acm.org/doi/10.1145/3510003.3510219), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Chuanqi Tao, **ICSE 2022**
-- [GrasP: Graph-to-Sequence Learning for Automated Program Repair](https://ieeexplore.ieee.org/document/9724652/),	Ben Tang, Bin Li, Lili Bo, Xiaoxue Wu, **Sicong Cao**, Xiaobing Sun, **QRS 2021**
-- [A Comprehensive Study on Security Bug Characteristics](https://onlinelibrary.wiley.com/doi/10.1002/smr.2376), Ying Wei, Xiaobing Sun, Lili Bo, **Sicong Cao**, Xin Xia, Bin Li, **Journal of Software: Evolution and Process (2021)**
-- [BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub), **Sicong Cao**, Xiaobing Sun, Lili Bo, Ying Wei, Bin Li, **Information and Software Technology (2021)**
+- ``CCF-A`` [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](), **Sicong Cao**, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei, **S&P 2023**
+- ``CCF-A`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
+- ``CCF-B`` [SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models](https://link.springer.com/article/10.1007/s10664-022-10216-4), Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, **Sicong Cao**, **Empirical Software Engineering (2022)**
+- ``CCF-A`` [MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks](https://dl.acm.org/doi/10.1145/3510003.3510219), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Chuanqi Tao, **ICSE 2022**
+- ``CCF-C`` [GrasP: Graph-to-Sequence Learning for Automated Program Repair](https://ieeexplore.ieee.org/document/9724652/), Ben Tang, Bin Li, Lili Bo, Xiaoxue Wu, **Sicong Cao**, Xiaobing Sun, **QRS 2021**
+- ``CCF-B`` [A Comprehensive Study on Security Bug Characteristics](https://onlinelibrary.wiley.com/doi/10.1002/smr.2376), Ying Wei, Xiaobing Sun, Lili Bo, **Sicong Cao**, Xin Xia, Bin Li, **Journal of Software: Evolution and Process (2021)**
+- ``CCF-B`` [BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub), **Sicong Cao**, Xiaobing Sun, Lili Bo, Ying Wei, Bin Li, **Information and Software Technology (2021)**
 
 # 🎖 Honors and Awards
 - *2020.11* Software Research Achievement Prototype System Competition (2nd Prize), ChinaSoft 2020. 
