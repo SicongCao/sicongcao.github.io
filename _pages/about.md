@@ -49,7 +49,7 @@ Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
 - [BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub), **Sicong Cao**, Xiaobing Sun, Lili Bo, Ying Wei, Bin Li, **Information and Software Technology (2021)**
 
 # 🎖 Honors and Awards
-- *2020.11* Software Research Achievement Prototype System Competition （2nd Prize）, ChinaSoft 2020. 
+- *2020.11* Software Research Achievement Prototype System Competition (2nd Prize), ChinaSoft 2020. 
 
 # 📖 Educations
 - *2019.06 - 2022.12 (now)*, PhD candidate, Yangzhou University, Yangzhou.
