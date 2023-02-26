@@ -28,11 +28,6 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-</div>
-</div>
-
 - ``ICSE 2023`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li
 - [SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models](https://link.springer.com/article/10.1007/s10664-022-10216-4), Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, **Sicong Cao**, **Empirical Software Engineering (2022)**
 - [MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks](https://dl.acm.org/doi/10.1145/3510003.3510219), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Chuanqi Tao, **ICSE 2022**
