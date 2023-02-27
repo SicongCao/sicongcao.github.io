@@ -41,7 +41,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2020.11* Software Research Achievement Prototype System Competition (2nd Prize), ChinaSoft 2020. 
 
 # 📖 Educations
-- *2019.06 - Present*, PhD candidate, Yangzhou University, Yangzhou.
+- *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
 # 💬 Invited Talks
