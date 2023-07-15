@@ -30,7 +30,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 # 📝 Publications 
 
 - ``CCF-A`` [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](), **Sicong Cao**, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei, **S&P 2023**
-- ``CCF-A`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](https://arxiv.org/abs/2303.07593), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
+- ``CCF-A`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](https://ieeexplore.ieee.org/document/10172888), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
 - ``CCF-B`` [SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models](https://link.springer.com/article/10.1007/s10664-022-10216-4), Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, **Sicong Cao**, **Empirical Software Engineering (2022)**
 - ``CCF-A`` [MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks](https://dl.acm.org/doi/10.1145/3510003.3510219), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Chuanqi Tao, **ICSE 2022**
 - ``CCF-C`` [GrasP: Graph-to-Sequence Learning for Automated Program Repair](https://ieeexplore.ieee.org/document/9724652/), Ben Tang, Bin Li, Lili Bo, Xiaoxue Wu, **Sicong Cao**, Xiaobing Sun, **QRS 2021**
