@@ -31,7 +31,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 # 📝 Publications 
 
-- ``EI`` [The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection](), Xingwei Lin, Mingxuan Zhou, **Sicong Cao**, Jiashui Wang, and Xiaobing Sun, **BlockSyS 2023**
+- ``EI`` <span style="color:red">(Best Paper Award)</span> [The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection](), Xingwei Lin, Mingxuan Zhou, **Sicong Cao**, Jiashui Wang, and Xiaobing Sun, **BlockSyS 2023**
 - ``CCF-A`` [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](https://ieeexplore.ieee.org/document/10179377), **Sicong Cao**, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei, **S&P 2023**
 - ``CCF-A`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](https://ieeexplore.ieee.org/document/10172888), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
 - ``CCF-B`` [SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models](https://link.springer.com/article/10.1007/s10664-022-10216-4), Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, **Sicong Cao**, **Empirical Software Engineering (2022)**
