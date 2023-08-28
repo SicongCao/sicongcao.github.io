@@ -23,11 +23,11 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 Our paper wins the **Best Paper Award** in **BlockSyS 2023**!
-- *2023.07*: &nbsp;🎉🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of **Prof. David Lo**!
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
-- *2022.12*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2023**!
-- *2021.12*: &nbsp;🎉🎉 One paper is accepted by the **Technical track of ICSE 2022**!
+- *2023.08*: &nbsp;🎖 Our paper wins the **Best Paper Award** at **BlockSyS 2023**!
+- *2023.07*: &nbsp;I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of **Prof. David Lo**!
+- *2023.03*: &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
+- *2022.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
+- *2021.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications 
 
