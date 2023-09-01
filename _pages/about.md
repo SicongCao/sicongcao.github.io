@@ -19,10 +19,11 @@ redirect_from:
 
 I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. Xiaobing Sun. Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
-My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published 7 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, S&P) and journals (e.g., IST, ESE).
+My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published 9 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, S&P) and journals (e.g., TOSEM, IST).
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉 One paper is accepted by **TOSEM**!
 - *2023.08*: &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
 - *2023.07*: &nbsp;I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of **Prof. David Lo**!
 - *2023.03*: &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
@@ -31,6 +32,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 # 📝 Publications 
 
+- ``CCF-A`` [Learning to Detect Memory-Related Vulnerabilities](), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, Wei Liu, **ACM Transactions on Software Engineering and Methodology (2023)**
 - ``EI`` <span style="color:red">(Best Paper Award)</span> [The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection](), Xingwei Lin, Mingxuan Zhou, **Sicong Cao***, Jiashui Wang, Xiaobing Sun, **BlockSyS 2023**
 - ``CCF-A`` [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](https://ieeexplore.ieee.org/document/10179377), **Sicong Cao**, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, Tao Wei, **S&P 2023**
 - ``CCF-A`` [Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation](https://ieeexplore.ieee.org/document/10172888), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, Jiajia Li, **ICSE 2023**
