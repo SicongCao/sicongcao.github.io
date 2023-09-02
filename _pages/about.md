@@ -44,7 +44,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 # 🎖 Honors and Awards
 - *2023.06* 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
-- *2020.11* Prototype Research Tool Award 3rd Place (Fixed topic) in CCF ChinaSoft 2020
+- *2020.11* Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
   
 # 📖 Educations
 - *2023.09 - 2024.08*, Visiting Ph.D student, Singapore Management University, Singapore.
