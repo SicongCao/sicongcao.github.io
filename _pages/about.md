@@ -23,6 +23,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
 - *2023.11*: &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
 - *2023.09*: &nbsp;🎉 One paper is accepted by **TOSEM**!
 - *2023.08*: &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
@@ -32,7 +33,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2021.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications 
-
+- ``CCF-A`` [Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems](), **Sicong Cao**, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Wei Liu, **ICSE 2024**
 - ``CCF-A`` [Learning to Detect Memory-Related Vulnerabilities](), **Sicong Cao**, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, Wei Liu, **ACM Transactions on Software Engineering and Methodology (2023)**
 - ``EI`` <span style="color:red">(Best Paper Award)</span> [The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection](), Xingwei Lin, Mingxuan Zhou, **Sicong Cao***, Jiashui Wang, Xiaobing Sun, **BlockSyS 2023**
 - ``CCF-A`` [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing](https://ieeexplore.ieee.org/document/10179377), **Sicong Cao**, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, Tao Wei, **S&P 2023**
@@ -44,6 +45,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-B`` [BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub), **Sicong Cao**, Xiaobing Sun, Lili Bo, Ying Wei, Bin Li, **Information and Software Technology (2021)**
 
 # 🎖 Honors and Awards
+- *2023.11* Principal Special Scholarship (1/15)
+- *2023.11* National Scholarship
 - *2023.06* 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
 - *2020.11* Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
   
