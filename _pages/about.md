@@ -51,7 +51,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2022.11* 优秀博士生论坛 ChinaSoft 2022 (10 students in China each year).
 - *2020.11* Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
   
-# 📖 Education
+# 📖 Educations
 - *2023.09 - 2024.08*, Visiting Ph.D student, Singapore Management University, Singapore.
 - *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
