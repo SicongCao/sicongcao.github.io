@@ -48,15 +48,16 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2023.11* Principal Special Scholarship (1/15)
 - *2023.11* National Scholarship
 - *2023.06* 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
+- *2022.11* 优秀博士生论坛 ChinaSoft 2022 (10 students in China each year).
 - *2020.11* Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
   
-# 📖 Educations
+# 📖 Education
 - *2023.09 - 2024.08*, Visiting Ph.D student, Singapore Management University, Singapore.
 - *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
-# 💬 Invited Talks
-- *2022.11*, Data-Driven Software Vulnerability Detection (优秀博士生论坛), ChinaSoft 2022 (10 students in China each year).
+# 💬 Reviewer
+- Automated Software Engineering(https://link.springer.com/journal/10515) (CCF B)
 
 # 💻 Internships
 - *2022.04 - 2022.06*, [Ant Group, Security FG Group](https://www.antgroup.com/), China.
