@@ -57,7 +57,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
-# 💬 Reviewer
+# 📚 Reviewer
 - ``CCF-A`` [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - ``CCF-A`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 - ``CCF-B`` [Automated Software Engineering](https://link.springer.com/journal/10515)
