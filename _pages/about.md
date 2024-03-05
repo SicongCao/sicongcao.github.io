@@ -43,14 +43,14 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - `BlockSys'23` <span style="color:red">(Best Paper Award)</span> **The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection**.  
   Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>*, Jiashui Wang, and Xiaobing Sun.  
   In *Proceedings of the 5th International Conference on Blockchain and Trustworthy Systems (BlockSys)*, August, 2023.  
-  [[Paper](https://sicongcao.github.io/publications/BlockSys23/BlockSys23-Paper.pdf)]
-  [[Slides](https://sicongcao.github.io/publications/BlockSys23/BlockSys23-Slides.pdf)]
+  [[Paper](https://sicongcao.github.io/publications/BlockSyS23/BlockSyS23-Paper.pdf)]
+  [[Slides](https://sicongcao.github.io/publications/BlockSyS23/BlockSyS23-Slides.pdf)]
   [[DOI](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_2)]
 - `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**.  
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
   In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023.  
-  [[Paper](https://sicongcao.github.io/publications/SP23/SP23-Paper.pdf)]
-  [[Slides](https://sicongcao.github.io/publications/SP23/SP23-Slides.pdf)]
+  [[Paper](https://sicongcao.github.io/publications/S&P23/SP23-Paper.pdf)]
+  [[Slides](https://sicongcao.github.io/publications/S&P23/SP23-Slides.pdf)]
   [[Code](https://github.com/ODDFuzz/ODDFuzz)]
   [[DOI](https://ieeexplore.ieee.org/document/10179377)]
 - `ICSE'23` **Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation**.  
