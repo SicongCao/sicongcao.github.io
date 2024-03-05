@@ -44,7 +44,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-B`` [BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub), **Sicong Cao**, Xiaobing Sun, Lili Bo, Ying Wei, Bin Li, **Information and Software Technology (2021)**
 
 # 🎖 Honors and Awards
-- *2024.02*: ICSE Student Travel Grant (CAPS)
+- *2024.02*: ACM SIGSOFT CAPS, ICSE 2024
 - *2023.11*: Principal Special Scholarship (1/15)
 - *2023.11*: National Scholarship
 - *2023.06*: 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
