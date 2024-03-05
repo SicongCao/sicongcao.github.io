@@ -44,7 +44,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>*, Jiashui Wang, and Xiaobing Sun.  
   In *Proceedings of the 5th International Conference on Blockchain and Trustworthy Systems (BlockSys)*, August, 2023.  
   [[Paper](https://sicongcao.github.io/publications/BlockSyS23/BlockSyS23-Paper.pdf)]
-  [[Slides](https://sicongcao.github.io/publications/BlockSyS23/BlockSyS23-Slides.pdf)]
+  [[Slides](https://sicongcao.github.io/publications/BlockSyS23/BlockSys23-Slides.pdf)]
   [[DOI](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_2)]
 - `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**.  
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
