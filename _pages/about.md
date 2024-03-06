@@ -32,7 +32,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2021.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications
-## Conference (* is the corresponding author)
+## Conference
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
   In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2024.  
