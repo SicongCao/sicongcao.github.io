@@ -82,7 +82,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://dl.acm.org/doi/abs/10.1145/3624744)]
 - `EMSE'22` **SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models**.  
   Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, and <span style="color:blue">Sicong Cao</span>.  
-  In *Empirical Software Engineering*, 2022.  
+  In *Journal of Empirical Software Engineering*, 2022.  
   [[Paper](https://sicongcao.github.io/publications/EMSE22/EMSE22-Paper.pdf)]
   [[DOI](https://link.springer.com/article/10.1007/s10664-022-10216-4)]
 - `JSEP'21` **A Comprehensive Study on Security Bug Characteristics**.  
