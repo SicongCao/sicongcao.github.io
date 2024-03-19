@@ -98,7 +98,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/smr.2376)]
 - `IST'21` **BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Ying Wei, and Bin Li.  
-  In *Journal of Information and Software Technology*, 2024.  
+  In *Journal of Information and Software Technology*, 2021.  
   [[Paper](https://sicongcao.github.io/publications/IST21/IST21-Paper.pdf)]
   [[Code](https://github.com/SicongCao/BGNN4VD)]
   [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub)]
