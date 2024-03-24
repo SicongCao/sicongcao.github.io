@@ -33,6 +33,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2021.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications
+<span style="color:blue">Representative papers:</span> <span style="color:red">5</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">5</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
@@ -40,7 +41,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/ICSE24/ICSE24-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/ICSE24/ICSE24-Slides.pdf)]
   [[Code](https://github.com/CocaVul/Coca)]
-  [[DOI](https://arxiv.org/abs/2401.14886)]
+  [[DOI](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a939/1V5BkRz8G2c)]
 - `BlockSys'23` <span style="color:red">(Best Paper Award)</span> **The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection**.  
   Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>, Jiashui Wang, and Xiaobing Sun.  
   In *Proceedings of the 5th International Conference on Blockchain and Trustworthy Systems (BlockSys)*, August, 2023.  
