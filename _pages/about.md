@@ -22,15 +22,15 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
-- *2023.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
-- *2023.11*: &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
-- *2023.09*: &nbsp;🎉 One paper is accepted by **TOSEM**!
-- *2023.08*: &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
-- *2023.07*: &nbsp;🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of **Prof. David Lo**!
-- *2023.03*: &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
-- *2022.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
-- *2021.12*: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
+- <span style="color:red">*2024.03*</span>: &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
+- <span style="color:red">*2023.12*</span>: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
+- <span style="color:red">*2023.11*</span>: &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
+- <span style="color:red">*2023.09*</span>: &nbsp;🎉 One paper is accepted by **TOSEM**!
+- <span style="color:red">*2023.08*</span>: &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
+- <span style="color:red">*2023.07*</span>: &nbsp;🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of **Prof. David Lo**!
+- <span style="color:red">*2023.03*</span>: &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
+- <span style="color:red">*2022.12*</span>: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
+- <span style="color:red">*2021.12*</span>: &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications
 <span style="color:blue">Representative papers:</span> <span style="color:red">5</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 papers</span>
