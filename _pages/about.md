@@ -80,7 +80,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Wei Liu, Di Wu, Jiale Zhang, Yan Li, Tom H. Luan, and Longxiang Gao.  
   In *IEEE Internet of Things Journal*, 2024. (__IF2023: 10.6__, <span style="color:red">JCR-Q1</span>)  
   [[Paper]()]
-  [[DOI]()]
+  [[DOI](10.1109/JIOT.2024.3381641)]
 - `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, and Wei Liu.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:red">CCF-A</span>)    
