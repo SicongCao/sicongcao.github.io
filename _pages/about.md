@@ -41,6 +41,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/ICSE24/ICSE24-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/ICSE24/ICSE24-Slides.pdf)]
   [[Code](https://github.com/CocaVul/Coca)]
+  [[Media]()]
   [[DOI](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a939/1V5BkRz8G2c)]
 - `BlockSys'23` <span style="color:red">(Best Paper Award)</span> **The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection**.  
   Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>, Jiashui Wang, and Xiaobing Sun.  
@@ -54,6 +55,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/S&P23/SP23-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/S&P23/SP23-Slides.pdf)]
   [[Code](https://github.com/ODDFuzz/ODDFuzz)]
+  [[Media](https://www.youtube.com/watch?v=6Nu5sAl0NeY)]
   [[DOI](https://ieeexplore.ieee.org/document/10179377)]
 - `ICSE'23` **Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, and Jiajia Li.  
@@ -68,6 +70,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/ICSE22/ICSE22-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/ICSE22/ICSE22-Slides.pdf)]
   [[Code](https://github.com/MVDetection/MVD)]
+  [[Media](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)]
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 - `QRS'21` **GrasP: Graph-to-Sequence Learning for Automated Program Repair**.  
   Ben Tang, Bin Li, Lili Bo, Xiaoxue Wu, <span style="color:blue">Sicong Cao</span>, and Xiaobing Sun.  
@@ -79,7 +82,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Wei Liu, Di Wu, Jiale Zhang, Yan Li, Tom H. Luan, and Longxiang Gao.  
   In *IEEE Internet of Things Journal*, 2024. (__IF2023: 10.6__, <span style="color:red">JCR-Q1</span>)  
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/IOT24/IOT24-Paper.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/10479158)]
 - `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, and Wei Liu.  
