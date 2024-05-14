@@ -22,6 +22,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2024.04*]</span> &nbsp;🎉 I'm happy to serve as Registration Chair in **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 - <span style="color:red">[*2023.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
 - <span style="color:red">[*2023.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
@@ -126,6 +127,9 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-A`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 - ``CCF-B`` [Automated Software Engineering](https://link.springer.com/journal/10515)
 - ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
+
+# 👨‍💻 Service
+- Registration Chair, FSE 2024
 
 # 💻 Internships
 - *2022.04 - 2022.06*, [Ant Group, Security FG Group](https://www.antgroup.com/), China.
