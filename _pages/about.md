@@ -81,7 +81,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://ieeexplore.ieee.org/document/9724652/)]
 
 ## Journal
-- `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
+- `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
   In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 12.3__, <span style="color:red">JCR-Q1</span>)  
   [[Paper]()]
