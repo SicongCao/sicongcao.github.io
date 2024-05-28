@@ -18,10 +18,11 @@ redirect_from:
 
 I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. [Xiaobing Sun](https://risame.github.io/sun/). Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
-My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE*3, S&P) and journals (e.g., TOSEM, IoTJ).
+My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE*3, S&P) and journals (e.g., TOSEM, EMSE).
 
 
 # 🔥 News
+- <span style="color:red">[*2024.05*]</span> &nbsp;🎉 One paper is accepted by **IEEE TII**!
 - <span style="color:red">[*2024.04*]</span> &nbsp;🎉 I'm happy to serve as Registration Chair in **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 - <span style="color:red">[*2023.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
@@ -34,7 +35,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications
-<span style="color:blue">Representative papers:</span> <span style="color:red">5</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">1</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">5</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
@@ -80,6 +81,11 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://ieeexplore.ieee.org/document/9724652/)]
 
 ## Journal
+- `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
+  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 12.3__, <span style="color:red">JCR-Q1</span>)  
+  [[Paper]()]
+  [[DOI]()]
 - `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Wei Liu, Di Wu, Jiale Zhang, Yan Li, Tom H. Luan, and Longxiang Gao.  
   In *IEEE Internet of Things Journal*, 2024. (__IF2023: 10.6__, <span style="color:red">JCR-Q1</span>)  
