@@ -22,6 +22,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2024.06*]</span> &nbsp;🎉 I'm happy to serve as Program Committee in **Industry Track of ASE 2024**!
 - <span style="color:red">[*2024.05*]</span> &nbsp;🎉 One paper is accepted by **IEEE TII**!
 - <span style="color:red">[*2024.04*]</span> &nbsp;🎉 I'm happy to serve as Registration Chair in **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
@@ -135,6 +136,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
 
 # 👨‍💻 Service
+- Program Committee, ASE 2024
 - Registration Chair, FSE 2024
 
 # 💻 Internships
