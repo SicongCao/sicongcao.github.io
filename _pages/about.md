@@ -22,9 +22,9 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
-- <span style="color:red">[*2024.06*]</span> &nbsp;🎉 I'm happy to serve as Program Committee in **Industry Track of ASE 2024**!
+- <span style="color:red">[*2024.06*]</span> &nbsp;🎉 Invited to serve as a program committee member of **Industry Track of ASE 2024**!
 - <span style="color:red">[*2024.05*]</span> &nbsp;🎉 One paper is accepted by **IEEE TII**!
-- <span style="color:red">[*2024.04*]</span> &nbsp;🎉 I'm happy to serve as Registration Chair in **FSE 2024**!
+- <span style="color:red">[*2024.04*]</span> &nbsp;🎉 Invited to serve as the registration chair of **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 - <span style="color:red">[*2023.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
 - <span style="color:red">[*2023.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
