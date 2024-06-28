@@ -45,7 +45,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Slides](https://sicongcao.github.io/publications/ICSE24/ICSE24-Slides.pdf)]
   [[Code](https://github.com/CocaVul/Coca)]
   [[Video](https://www.youtube.com/watch?v=PlFAMJtvTmg)]
-  [[DOI](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a939/1V5BkRz8G2c)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3597503.3639168)]
 - `BlockSys'23` <span style="color:red">(Best Paper Award)</span> **The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection**.  
   Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>, Jiashui Wang, and Xiaobing Sun.  
   In *Proceedings of the 5th International Conference on Blockchain and Trustworthy Systems (BlockSys)*, August, 2023.  
