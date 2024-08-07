@@ -22,6 +22,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2024.08*]</span> &nbsp;🎉 Two paper are accepted by the **Research track of ASE 2024**!
+- <span style="color:red">[*2024.07*]</span> &nbsp;🎉 Invited to serve as a shadow PC of **ICSE 2025**!
 - <span style="color:red">[*2024.06*]</span> &nbsp;🎉 Invited to serve as a program committee member of **Industry Track of ASE 2024**!
 - <span style="color:red">[*2024.05*]</span> &nbsp;🎉 One paper is accepted by **IEEE TII**!
 - <span style="color:red">[*2024.04*]</span> &nbsp;🎉 Invited to serve as the registration chair of **FSE 2024**!
@@ -36,8 +38,18 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Publications
-<span style="color:blue">Representative papers:</span> <span style="color:red">5</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
+- `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
+  In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
+  [[Paper]()]
+  [[DOI]()]
+- `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
+  Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
+  In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
+  [[Paper]()]
+  [[DOI]()]
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
   In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2024.  (<span style="color:red">CCF-A</span>)   
@@ -136,7 +148,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
 
 # 👨‍💻 Service
-- Program Committee, ASE 2024
+- Shadow PC, ICSE 2025
+- PC Member, ASE 2024
 - Registration Chair, FSE 2024
 
 # 💻 Internships
