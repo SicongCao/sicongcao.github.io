@@ -18,7 +18,7 @@ redirect_from:
 
 I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. [Xiaobing Sun](https://risame.github.io/sun/). Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
-My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE*3, S&P) and journals (e.g., TOSEM, EMSE).
+My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P) and journals (e.g., TOSEM, TII).
 
 
 # 🔥 News
@@ -32,7 +32,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2023.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
 - <span style="color:red">[*2023.09*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**!
 - <span style="color:red">[*2023.08*]</span> &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
-- <span style="color:red">[*2023.07*]</span> &nbsp;🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of [**Prof. David Lo**](http://www.mysmu.edu/faculty/davidlo/)!
+- <span style="color:red">[*2023.07*]</span> &nbsp;🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
 - <span style="color:red">[*2023.03*]</span> &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
 - <span style="color:red">[*2022.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
 - <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
