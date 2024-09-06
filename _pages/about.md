@@ -37,18 +37,18 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2022.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
 - <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
-# 📝 Publications
+# 📝 Selected Publications
 <span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Papera.pdf)]
   [[DOI]()]
 - `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
   Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Paperb.pdf)]
   [[DOI]()]
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
@@ -58,12 +58,6 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Code](https://github.com/CocaVul/Coca)]
   [[Video](https://www.youtube.com/watch?v=PlFAMJtvTmg)]
   [[DOI](https://dl.acm.org/doi/10.1145/3597503.3639168)]
-- `BlockSys'23` <span style="color:red">(Best Paper Award)</span> **The Best of Both Worlds: Integrating Semantic Features with Expert Features for Smart Contract Vulnerability Detection**.  
-  Xingwei Lin, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>, Jiashui Wang, and Xiaobing Sun.  
-  In *Proceedings of the 5th International Conference on Blockchain and Trustworthy Systems (BlockSys)*, August, 2023.  
-  [[Paper](https://sicongcao.github.io/publications/BlockSyS23/BlockSyS23-Paper.pdf)]
-  [[Slides](https://sicongcao.github.io/publications/BlockSyS23/BlockSys23-Slides.pdf)]
-  [[DOI](https://link.springer.com/chapter/10.1007/978-981-99-8104-5_2)]
 - `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**.  
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
   In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023. (<span style="color:red">CCF-A</span>)  
@@ -79,25 +73,20 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Slides](https://sicongcao.github.io/publications/ICSE23/ICSE23-Slides.pdf)]
   [[Code](https://github.com/GCMiner/GCMiner)]
   [[DOI](https://ieeexplore.ieee.org/document/10172888)]
-- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**.  
-  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.  
+- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**.
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.
   In *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2022. (<span style="color:red">CCF-A</span>)   
   [[Paper](https://sicongcao.github.io/publications/ICSE22/ICSE22-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/ICSE22/ICSE22-Slides.pdf)]
   [[Code](https://github.com/MVDetection/MVD)]
   [[Video](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)]
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
-- `QRS'21` **GrasP: Graph-to-Sequence Learning for Automated Program Repair**.  
-  Ben Tang, Bin Li, Lili Bo, Xiaoxue Wu, <span style="color:blue">Sicong Cao</span>, and Xiaobing Sun.  
-  In *Proceedings of the 21th IEEE International Conference on Software Quality, Reliability, and Security (QRS)*, December, 2021.  
-  [[Paper](https://sicongcao.github.io/publications/QRS21/QRS21-Paper.pdf)]
-  [[DOI](https://ieeexplore.ieee.org/document/9724652/)]
 
 ## Journal
 - `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
   In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 12.3__, <span style="color:red">JCR-Q1</span>)  
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/TII24/TII24-Paper.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/10574217)]
 - `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Wei Liu, Di Wu, Jiale Zhang, Yan Li, Tom H. Luan, and Longxiang Gao.  
@@ -110,16 +99,6 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/TOSEM24/TOSEM24-Paper.pdf)]
   [[Code](https://github.com/SicongCao/MemoryVul)]
   [[DOI](https://dl.acm.org/doi/abs/10.1145/3624744)]
-- `EMSE'22` **SPVF: Security Property Assisted Vulnerability Fixing via Attention-Based Models**.  
-  Zhou Zhou, Lili Bo, Xiaoxue Wu, Xiaobing Sun, Tao Zhang, Bin Li, Jiale Zhang, and <span style="color:blue">Sicong Cao</span>.  
-  In *Journal of Empirical Software Engineering*, 2022.  
-  [[Paper](https://sicongcao.github.io/publications/EMSE22/EMSE22-Paper.pdf)]
-  [[DOI](https://link.springer.com/article/10.1007/s10664-022-10216-4)]
-- `JSEP'21` **A Comprehensive Study on Security Bug Characteristics**.  
-  Ying Wei, Xiaobing Sun, Lili Bo, <span style="color:blue">Sicong Cao</span>, Xin Xia, and Bin Li.  
-  In *Journal of Software: Evolution and Process*, 2021.  
-  [[Paper](https://sicongcao.github.io/publications/JSEP21/JSEP21-Paper.pdf)]
-  [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/smr.2376)]
 - `IST'21` **BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Ying Wei, and Bin Li.  
   In *Journal of Information and Software Technology*, 2021.  
