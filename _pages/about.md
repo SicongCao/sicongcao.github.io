@@ -107,6 +107,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub)]
 
 # 🎖 Honors and Awards
+- *2024.09*: ACM SIGSOFT CAPS Travel Funds, ASE 2024
+- *2024.09*: Grand Place (Freestyle/A-ST) of The 9th C4-Network Technology Challenge 🏆
 - *2024.02*: ACM SIGSOFT CAPS Travel Funds, ICSE 2024
 - *2023.11*: Principal Special Scholarship (1/15)
 - *2023.11*: National Scholarship
@@ -123,6 +125,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 # 📚 Reviewer
 - ``CCF-A`` [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - ``CCF-A`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+- ``CCF-A`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+- ``CCF-A`` [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 - ``CCF-B`` [Automated Software Engineering](https://link.springer.com/journal/10515)
 - ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
 
