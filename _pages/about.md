@@ -74,9 +74,9 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Slides](https://sicongcao.github.io/publications/ICSE23/ICSE23-Slides.pdf)]
   [[Code](https://github.com/GCMiner/GCMiner)]
   [[DOI](https://ieeexplore.ieee.org/document/10172888)]
-- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**.
-  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.
-  In *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2022. (<span style="color:red">CCF-A</span>)   
+- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**.  
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.  
+  In *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2022. (<span style="color:red">CCF-A</span>)    
   [[Paper](https://sicongcao.github.io/publications/ICSE22/ICSE22-Paper.pdf)]
   [[Slides](https://sicongcao.github.io/publications/ICSE22/ICSE22-Slides.pdf)]
   [[Code](https://github.com/MVDetection/MVD)]
