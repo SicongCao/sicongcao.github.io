@@ -45,12 +45,12 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
   [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Papera.pdf)]
-  [[DOI]()]
+  [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695057)]
 - `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
   Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
   [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Paperb.pdf)]
-  [[DOI]()]
+  [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695493)]
 - `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
   In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2024.  (<span style="color:red">CCF-A</span>)   
