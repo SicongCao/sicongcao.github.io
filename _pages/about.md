@@ -22,6 +22,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2024.11*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**!
 - <span style="color:red">[*2024.10*]</span> &nbsp;🎉 Invited to serve as a program committee member of **EuroS&P 2025**!
 - <span style="color:red">[*2024.09*]</span> &nbsp;🎉 Invited to serve as a Junior PC of **MSR 2025**!
 - <span style="color:red">[*2024.08*]</span> &nbsp;🎉 Two paper are accepted by the **Research track of ASE 2024**!
@@ -40,7 +41,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Selected Publications
-<span style="color:blue">Representative papers:</span> <span style="color:red">7</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">8</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
@@ -85,9 +86,14 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 
 ## Journal
+- `TOSEM'24` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
+  Xin Zhou, <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, and David Lo.  
+  In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:red">CCF-A</span>)  
+  [[Paper]()]
+  [[DOI]()]
 - `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
-  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 12.3__, <span style="color:red">JCR-Q1</span>)  
+  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 4.4__, <span style="color:red">JCR-Q1</span>)  
   [[Paper](https://sicongcao.github.io/publications/TII24/TII24-Paper.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/10574217)]
 - `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
