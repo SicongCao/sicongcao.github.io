@@ -24,6 +24,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2024.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship again!
 - <span style="color:red">[*2024.11*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**!
 - <span style="color:red">[*2024.10*]</span> &nbsp;🎉 Invited to serve as a program committee member of **EuroS&P 2025**!
 - <span style="color:red">[*2024.09*]</span> &nbsp;🎉 Invited to serve as a Junior PC of **MSR 2025**!
@@ -117,6 +118,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub)]
 
 # 🎖 Honors and Awards
+- *2024.11*: Principal Special Scholarship (1/15)
+- *2024.11*: National Scholarship
 - *2024.09*: ACM SIGSOFT CAPS Travel Funds, ASE 2024
 - *2024.09*: Grand Place (Freestyle/A-ST) of The 9th C4-Network Technology Challenge 🏆
 - *2024.02*: ACM SIGSOFT CAPS Travel Funds, ICSE 2024
