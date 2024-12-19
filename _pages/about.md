@@ -128,17 +128,18 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
-# 📚 Reviewer
-- ``CCF-A`` [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
-- ``CCF-A`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
-- ``CCF-A`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
-- ``CCF-A`` [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
-- ``CCF-B`` [Automated Software Engineering](https://link.springer.com/journal/10515)
-- ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
-- ``CCF-B`` [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)
-- ``JCR-Q1`` [Communications of the ACM](https://dl.acm.org/magazine/cacm)
+# 👨‍💻 Services
+## Journal Reviewing
+- ``TSE`` [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- ``TOSEM`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+- ``TDSC`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+- ``TIFS`` [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+- ``ASEJ`` [Automated Software Engineering](https://link.springer.com/journal/10515)
+- ``EMSE`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
+- ``JSEP`` [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)
+- ``CACM`` [Communications of the ACM](https://dl.acm.org/magazine/cacm)
 
-# 👨‍💻 Service
+## Conference Activities
 - PC Member, EuroS&P 2025
 - Junior PC, MSR 2025
 - Shadow PC, ICSE 2025
