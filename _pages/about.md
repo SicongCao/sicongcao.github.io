@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. [Xiaobing Sun](https://risame.github.io/sun/). Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
+I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.cn/) <img src='./images/Riss_LOGO.jpg' style='width: 3em;'> as a PhD candidate at Yangzhou University now, supervised by Prof. [Xiaobing Sun](https://risame.github.io/sun/) and Prof. [Wei Liu](https://xxgcxy.yzu.edu.cn/info/1020/4051.htm). From October 2023 to September 2024, I was a visiting student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) at Singapore Management University. Our group and I are open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
 My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P) and journals (e.g., TOSEM, TII).
 
@@ -34,14 +34,6 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2024.05*]</span> &nbsp;🎉 One paper is accepted by **IEEE TII**!
 - <span style="color:red">[*2024.04*]</span> &nbsp;🎉 Invited to serve as the registration chair of **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
-- <span style="color:red">[*2023.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2024**!
-- <span style="color:red">[*2023.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship!
-- <span style="color:red">[*2023.09*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**!
-- <span style="color:red">[*2023.08*]</span> &nbsp;🏆 Our paper wins the <span style="color:red">Best Paper Award</span> at **BlockSyS 2023**!
-- <span style="color:red">[*2023.07*]</span> &nbsp;🎉 I win the **Chinese China Scholarship Council (CSC)** funding to work as a visiting PhD of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/)!
-- <span style="color:red">[*2023.03*]</span> &nbsp;🎉 One paper is accepted by the **Main track of IEEE S&P 2023**!
-- <span style="color:red">[*2022.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2023**!
-- <span style="color:red">[*2021.12*]</span> &nbsp;🎉 One paper is accepted by the **Technical track of ICSE 2022**!
 
 # 📝 Selected Publications
 <span style="color:blue">Representative papers:</span> <span style="color:red">8</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
@@ -89,14 +81,14 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 
 ## Journal
-- `TOSEM'24` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
+- `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
   Xin Zhou, <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, and David Lo.  
-  In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:red">CCF-A</span>)  
+  In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)  
   [[Paper]()]
-  [[DOI]()]
+  [[DOI](https://dl.acm.org/doi/10.1145/3708522)]
 - `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
-  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2023: 4.4__, <span style="color:red">JCR-Q1</span>)  
+  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2024: 11.7__, <span style="color:red">JCR-Q1</span>)  
   [[Paper](https://sicongcao.github.io/publications/TII24/TII24-Paper.pdf)]
   [[DOI](https://ieeexplore.ieee.org/document/10574217)]
 - `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**.  
@@ -127,6 +119,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - *2023.11*: National Scholarship
 - *2023.09*: 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
 - *2023.08*: BlockSys Best Paper Award
+- *2023.07*: China Scholarship Council (CSC) Scholarship
 - *2022.11*: Distinguished Doctoral Symposium, CCF ChinaSoft 2022 (1/13)
 - *2020.11*: Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
   
@@ -142,6 +135,8 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - ``CCF-A`` [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 - ``CCF-B`` [Automated Software Engineering](https://link.springer.com/journal/10515)
 - ``CCF-B`` [Empirical Software Engineering](https://link.springer.com/journal/10664)
+- ``CCF-B`` [Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)
+- ``JCR-Q1`` [Communications of the ACM](https://dl.acm.org/magazine/cacm)
 
 # 👨‍💻 Service
 - PC Member, EuroS&P 2025
