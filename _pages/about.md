@@ -20,8 +20,6 @@ I work at [Research in Software and Security (RiSS) Group](http://riss.yzu.edu.c
 
 My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P) and journals (e.g., TOSEM, TII).
 
-**Additional Info:** [[Chinese_CV](https://sicongcao.github.io/CV/Chinese.pdf)] [[English_CV](https://sicongcao.github.io/CV/English.pdf)]
-
 
 # 🔥 News
 - <span style="color:red">[*2024.12*]</span> &nbsp;🎉 One paper is accepted by **软件学报**!
