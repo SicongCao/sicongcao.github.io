@@ -36,7 +36,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 
 # 📝 Selected Publications
-<span style="color:blue">Representative papers:</span> <span style="color:red">8</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">9</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
