@@ -24,7 +24,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
-- <span style="color:red">[*2024.11*]</span> &nbsp;🎉 I win the National Scholarship and Principal Special Scholarship again!
+- <span style="color:red">[*2024.12*]</span> &nbsp;🎉 One paper is accepted by **软件学报**!
 - <span style="color:red">[*2024.11*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**!
 - <span style="color:red">[*2024.10*]</span> &nbsp;🎉 Invited to serve as a program committee member of **EuroS&P 2025**!
 - <span style="color:red">[*2024.09*]</span> &nbsp;🎉 Invited to serve as a Junior PC of **MSR 2025**!
@@ -81,6 +81,11 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 
 ## Journal
+- `软件学报'25` **基于结构感知图神经网络的多类别漏洞检测方法**.  
+  <span style="color:blue">曹思聪</span>, 孙小兵, 薄莉莉, 吴潇雪, 李斌, 陈厅, 罗夏朴, 张涛, 刘维.  
+  In *软件学报*, 2025. (<span style="color:red">中文CCF-A</span>)  
+  [[Paper]()]
+  [[DOI]()]
 - `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
   Xin Zhou, <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)  
@@ -104,7 +109,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[DOI](https://dl.acm.org/doi/abs/10.1145/3624744)]
 - `IST'21` **BGNN4VD: Constructing Bidirectional Graph Neural-Network for Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Ying Wei, and Bin Li.  
-  In *Journal of Information and Software Technology*, 2021.  
+  In *Information and Software Technology*, 2021.  
   [[Paper](https://sicongcao.github.io/publications/IST21/IST21-Paper.pdf)]
   [[Code](https://github.com/SicongCao/BGNN4VD)]
   [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000586?via%3Dihub)]
