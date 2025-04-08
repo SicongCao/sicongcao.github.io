@@ -128,7 +128,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   
 # 📖 Educations
 - *2023.10 - 2024.10*, Visiting Ph.D student, Singapore Management University, Singapore.
-- *2019.06 - Present*, Ph.D candidate, Yangzhou University, Yangzhou.
+- *2019.06 - 2025.03*, Ph.D, Yangzhou University, Yangzhou.
 - *2015.09 - 2019.06*, Undergraduate, Nanjing Institute of Technology, Nanjing.
 
 # 👨‍💻 Services
