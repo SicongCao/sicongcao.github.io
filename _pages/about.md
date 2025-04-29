@@ -82,12 +82,12 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - `软件学报'25` **基于结构感知图神经网络的多类别漏洞检测方法**.  
   <span style="color:blue">曹思聪</span>, 孙小兵, 薄莉莉, 吴潇雪, 李斌, 陈厅, 罗夏朴, 张涛, 刘维.  
   In *软件学报*, 2025. (<span style="color:red">中文CCF-A</span>)  
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/JOS25/JOS25-Paper.pdf)]
   [[DOI](https://www.jos.org.cn/jos/article/abstract/7375)]
 - `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
   Xin Zhou, <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)  
-  [[Paper]()]
+  [[Paper](https://sicongcao.github.io/publications/TOSEM25/TOSEM25-Paper.pdf)]
   [[DOI](https://dl.acm.org/doi/10.1145/3708522)]
 - `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
