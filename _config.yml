@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sicong Cao (曹思聪)"
-description              : " Ph.D at Yangzhou University, Research in Software and Security (RiSS) Lab. Focusing on the intersection of AI, SE and Security."
+description              : "Focusing on the intersection of AI, SE and Security."
 repository               : "SicongCao/sicongcao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sicong Cao (曹思聪)"
   avatar           : "images/photo.png"
-  bio              : "Yangzhou University"
-  location         : "Yangzhou, China"
+  bio              : "Nanjing University of Posts and Telecommunications"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=c-vPF2gAAAAJ"
