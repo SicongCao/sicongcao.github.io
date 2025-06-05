@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I got my Ph.D degree in March 2025 from the School of Information Engineering, Yangzhou University, China. I was very fortunate to work under the supervision of Prof. [Xiaobing Sun](https://risame.github.io/sun/) and Prof. [Wei Liu](https://xxgcxy.yzu.edu.cn/info/1020/4051.htm). From October 2023 to September 2024, I was a visiting student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) at Singapore Management University. I am open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
+I am currently an assistant professor in the School of Computer Science of Nanjing University of Posts and Telecommunications (NJUPT). I got my Ph.D degree in March 2025 from the School of Information Engineering, Yangzhou University, China. I was very fortunate to work under the supervision of Prof. [Xiaobing Sun](https://risame.github.io/sun/) and Prof. [Wei Liu](https://xxgcxy.yzu.edu.cn/info/1020/4051.htm). From October 2023 to September 2024, I was a visiting student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) at Singapore Management University. I am open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
 My research interest includes Software Engineering (SE) and Deep Learning (DL). I have published over 10 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P, USENIX Sec) and journals (e.g., TOSEM, TII).
 
@@ -37,10 +37,10 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 
 # 📝 Selected Publications
-<span style="color:blue">Representative papers:</span> <span style="color:red">9</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
-- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.
-  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>, Kaifeng Huang, Du Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
+- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.  
+  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>, Kaifeng Huang, Du Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025.  (<span style="color:red">CCF-A</span>)   
   [[Paper]()]
   [[DOI]()]
