@@ -36,11 +36,11 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 - <span style="color:red">[*2024.04*]</span> &nbsp;🎉 Invited to serve as the registration chair of **FSE 2024**!
 - <span style="color:red">[*2024.03*]</span> &nbsp;🎉 One paper is accepted by **IEEE IoTJ**!
 
-# 📝 Selected Publications
+# 📝 Selected Publications (💌 represents corresponding author)
 <span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.  
-  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>, Kaifeng Huang, Du Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.
+  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Du Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025.  (<span style="color:red">CCF-A</span>)   
   [[Paper]()]
   [[DOI]()]
@@ -50,7 +50,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Papera.pdf)]
   [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695057)]
 - `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
-  Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
+  Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024.  (<span style="color:red">CCF-A</span>)   
   [[Paper](https://sicongcao.github.io/publications/ASE24/ASE24-Paperb.pdf)]
   [[DOI](https://dl.acm.org/doi/10.1145/3691620.3695493)]
@@ -93,7 +93,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
   [[Paper](https://sicongcao.github.io/publications/JOS25/JOS25-Paper.pdf)]
   [[DOI](https://www.jos.org.cn/jos/article/abstract/7375)]
 - `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**.  
-  Xin Zhou, <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, and David Lo.  
+  Xin Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:red">CCF-A</span>)  
   [[Paper](https://sicongcao.github.io/publications/TOSEM25/TOSEM25-Paper.pdf)]
   [[DOI](https://dl.acm.org/doi/10.1145/3708522)]
