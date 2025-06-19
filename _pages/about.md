@@ -41,7 +41,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 <span style="color:blue">Representative papers:</span> <span style="color:red">10</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.  
-  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.
+  Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025.  (<span style="color:red">CCF-A</span>)   
   [[Paper](https://sicongcao.github.io/publications/USENIX25/USENIX25-Paper.pdf)]
   [[DOI]()]
