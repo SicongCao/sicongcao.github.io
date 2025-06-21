@@ -22,6 +22,7 @@ My research interest includes Software Engineering (SE) and Deep Learning (DL). 
 
 
 # 🔥 News
+- <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **SEKE 2025**! Congras to Wenya!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security**! Congras to Xingan!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 Invited to serve as a program committee member of **APSEC 2025**!
 - <span style="color:red">[*2025.03*]</span> &nbsp;🎉 I have defended my PhD thesis!
