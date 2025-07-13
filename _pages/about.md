@@ -96,7 +96,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   Xiaobing Sun, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaoxue Wu, Lili Bo, Di Wu, Bin Li, and Yang Xiang.  
   In *IEEE Transactions on Dependable and Secure Computing*, 2025. (__IF2025: 7.5__, <span style="color:red">CCF-A</span>)  
   [[Paper]()]
-  [[DOI]()]
+  [[DOI](https://ieeexplore.ieee.org/abstract/document/11072308)]
 - `软件学报'25` **基于结构感知图神经网络的多类别漏洞检测方法**.  
   <span style="color:blue">曹思聪</span>, 孙小兵, 薄莉莉, 吴潇雪, 李斌, 陈厅, 罗夏朴, 张涛, 刘维.  
   In *软件学报*, 2025. (<span style="color:red">中文CCF-A</span>)  
