@@ -27,6 +27,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:red">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **CSUR**!
 - <span style="color:red">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **TDSC**! Congras to Mingxuan!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **SEKE 2025**! Congras to Wenya!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security**! Congras to Xingan!
@@ -42,7 +43,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">11</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">2</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">11</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.  
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
@@ -92,6 +93,12 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 
 ## Journal
+- `CSUR'25` **A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**.  
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Ratnadira Widyasari, David Lo, Xiaoxue Wu, Lili Bo, Jiale Zhang, Bin Li, Wei Liu, Di Wu,
+  and Yixin Chen.  
+  In *ACM Computing Surveys*, 2025. (__IF2025: 28__, <span style="color:red">JCR-Q1</span>)  
+  [[Paper]()]
+  [[DOI]()]
 - `TDSC'25` **HgtJIT: Just-in-Time Vulnerability Detection based on Heterogeneous Graph Transformer**.  
   Xiaobing Sun, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaoxue Wu, Lili Bo, Di Wu, Bin Li, and Yang Xiang.  
   In *IEEE Transactions on Dependable and Secure Computing*, 2025. (__IF2025: 7.5__, <span style="color:red">CCF-A</span>)  
