@@ -98,7 +98,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   and Yixin Chen.  
   In *ACM Computing Surveys*, 2025. (__IF2025: 28__, <span style="color:red">JCR-Q1</span>)  
   [[Paper]()]
-  [[DOI](https://arxiv.org/abs/2401.14617)]
+  [[DOI](https://dl.acm.org/doi/10.1145/3763230)]
 - `TDSC'25` **HgtJIT: Just-in-Time Vulnerability Detection based on Heterogeneous Graph Transformer**.  
   Xiaobing Sun, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaoxue Wu, Lili Bo, Di Wu, Bin Li, and Yang Xiang.  
   In *IEEE Transactions on Dependable and Secure Computing*, 2025. (__IF2025: 7.5__, <span style="color:red">CCF-A</span>)  
