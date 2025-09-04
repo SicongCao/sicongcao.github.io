@@ -27,6 +27,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:red">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Zhenlei!
 - <span style="color:red">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **CSUR**!
 - <span style="color:red">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **TDSC**! Congras to Mingxuan!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **SEKE 2025**! Congras to Wenya!
@@ -43,7 +44,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:red">11</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:red">12</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.  
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
@@ -93,6 +94,11 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   [[DOI](https://dl.acm.org/doi/10.1145/3510003.3510219)]
 
 ## Journal
+- `TSC'25` **KG4VA: Constructing Vulnerability Knowledge Graph for Software Vulnerability Assessment**.  
+  Zhenlei Ye, Xiaobing Sun, Lili Bo, <span style="color:blue">Sicong Cao</span>, Xiaoxue Ren, Lianyong Qi, and Jiale Zhang.  
+  In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:red">CCF-A</span>)  
+  [[Paper]()]
+  [[DOI]()]
 - `CSUR'25` **A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Ratnadira Widyasari, David Lo, Xiaoxue Wu, Lili Bo, Jiale Zhang, Bin Li, Wei Liu, Di Wu,
   and Yixin Chen.  
