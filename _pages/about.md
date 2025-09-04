@@ -34,12 +34,6 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security**! Congras to Xingan!
 - <span style="color:red">[*2025.06*]</span> &nbsp;🎉 Invited to serve as a program committee member of **APSEC 2025**!
 - <span style="color:red">[*2025.03*]</span> &nbsp;🎉 I have defended my PhD thesis!
-- <span style="color:red">[*2024.12*]</span> &nbsp;🎉 One paper is accepted by **软件学报**!
-- <span style="color:red">[*2024.11*]</span> &nbsp;🎉 One paper is accepted by **TOSEM**! Congras to Xin!
-- <span style="color:red">[*2024.10*]</span> &nbsp;🎉 Invited to serve as a program committee member of **EuroS&P 2025**!
-- <span style="color:red">[*2024.09*]</span> &nbsp;🎉 Invited to serve as a Junior PC of **MSR 2025**!
-- <span style="color:red">[*2024.08*]</span> &nbsp;🎉 Two paper are accepted by the **Research track of ASE 2024**! Congras to Xingan!
-- <span style="color:red">[*2024.07*]</span> &nbsp;🎉 Invited to serve as a shadow PC of **ICSE 2025**!
 
 
 # 📝 Selected Publications
