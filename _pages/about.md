@@ -40,10 +40,10 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
 <span style="color:blue">Representative papers:</span> <span style="color:red">12</span> <span style="color:blue">CCF-A papers,</span> <span style="color:red">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
-- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem** [<span class="pdf">PDF</span>](/publications/USENIX25/USENIX25-Paper.pdf)  
+- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)   
-  [[Paper](https://sicongcao.github.io/publications/USENIX25/USENIX25-Paper.pdf)]
+  [<span class="pdf">PDF</span>](/publications/USENIX25/USENIX25-Paper.pdf)  
   [[DOI](https://www.usenix.org/conference/usenixsecurity25/presentation/gao-xingan)]
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
