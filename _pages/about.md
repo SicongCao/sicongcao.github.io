@@ -43,12 +43,14 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.   
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)   
-  [<span class="pdf">PDF</span>](/publications/USENIX25/USENIX25-Paper.pdf)   
+  [<span class="pdf">PDF</span>](/publications/USENIX25/USENIX25-Paper.pdf)
+  [<span class="slide">Slides</span>](/publications/USENIX25/USENIX25-Slides.pdf)   
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
   [<span class="pdf">PDF</span>](/publications/ASE24/ASE24-Papera.pdf)
-  [<span class="slide">Slides</span>](/publications/ICSE24/ICSE24-Slides.pdf)   
+  [<span class="slide">Slides</span>](/publications/ASE24/ASE24-Slides.pdf)
+  [<span class="video">Video</span>](https://www.youtube.com/watch?v=d8clWq9JC0Y)   
 - `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
   Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
