@@ -47,7 +47,8 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 - `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
-  [<span class="pdf">PDF</span>](/publications/ASE24/ASE24-Papera.pdf)   
+  [<span class="pdf">PDF</span>](/publications/ASE24/ASE24-Papera.pdf)
+  [<span class="slide">Slides</span>](/publications/ICSE24/ICSE24-Slides.pdf)   
 - `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**.  
   Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
@@ -56,25 +57,25 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
   In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2024. (<span style="color:#B00C00">CCF-A</span>)   
   [<span class="pdf">PDF</span>](/publications/ICSE24/ICSE24-Paper.pdf)
-  [<span class="slide">Slide</span>](/publications/ICSE24/ICSE24-Slides.pdf)
+  [<span class="slide">Slides</span>](/publications/ICSE24/ICSE24-Slides.pdf)
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=PlFAMJtvTmg)   
 - `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**.  
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
   In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)   
   Presented at **BlackHat USA 2023** [[Talk Abstract](https://www.blackhat.com/us-23/briefings/schedule/#oddfuzz-hunting-java-deserialization-gadget-chains-via-structure-aware-directed-greybox-fuzzing-31367)]  
   [<span class="pdf">PDF</span>](/publications/S&P23/SP23-Paper.pdf)
-  [<span class="slide">Slide</span>](/publications/S&P23/SP23-Slides.pdf)
+  [<span class="slide">Slides</span>](/publications/S&P23/SP23-Slides.pdf)
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=6Nu5sAl0NeY)   
 - `ICSE'23` **Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, and Jiajia Li.  
   In *Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)   
   [<span class="pdf">PDF</span>](/publications/ICSE23/ICSE23-Paper.pdf)
-  [<span class="slide">Slide</span>](/publications/ICSE23/ICSE23-Slides.pdf)   
+  [<span class="slide">Slides</span>](/publications/ICSE23/ICSE23-Slides.pdf)   
 - `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**.  
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.  
   In *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2022. (<span style="color:#B00C00">CCF-A</span>)    
   [<span class="pdf">PDF</span>](/publications/ICSE22/ICSE22-Paper.pdf)
-  [<span class="slide">Slide</span>](/publications/ICSE22/ICSE22-Slides.pdf)
+  [<span class="slide">Slides</span>](/publications/ICSE22/ICSE22-Slides.pdf)
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)   
 
 ## Journal
