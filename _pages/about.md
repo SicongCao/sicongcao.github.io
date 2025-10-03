@@ -64,7 +64,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
   [[Video](https://www.youtube.com/watch?v=PlFAMJtvTmg)]   
 - `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**.  
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
-  In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)
+  In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)   
   Presented at **BlackHat USA 2023** [[Talk Abstract](https://www.blackhat.com/us-23/briefings/schedule/#oddfuzz-hunting-java-deserialization-gadget-chains-via-structure-aware-directed-greybox-fuzzing-31367)]  
   [<span class="pdf">PDF</span>](/publications/S&P23/SP23-Paper.pdf)
   [<span class="doi">DOI</span>](https://ieeexplore.ieee.org/document/10179377)
