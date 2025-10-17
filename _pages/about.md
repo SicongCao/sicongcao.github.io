@@ -27,14 +27,12 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
+- <span style="color:#B00C00">[*2025.10*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
 - <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Zhenlei!
 - <span style="color:#B00C00">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **CSUR**!
 - <span style="color:#B00C00">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **TDSC**! Congras to Mingxuan!
 - <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **SEKE 2025**! Congras to Wenya!
-- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security**! Congras to Xingan!
-- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 Invited to serve as a program committee member of **APSEC 2025**!
-- <span style="color:#B00C00">[*2025.03*]</span> &nbsp;🎉 I have defended my PhD thesis!
+- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security 2025**! Congras to Xingan!
 
 
 # 📝 Selected Publications
@@ -122,7 +120,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🎖 Honors and Awards
-- *2025.06*: Outstanding Graduate
+- *2025.06*: Outstanding Graduate, Yangzhou University
 - *2024.11*: Principal Special Scholarship (1/15)
 - *2024.11*: National Scholarship
 - *2024.09*: ACM SIGSOFT CAPS Travel Funds, ASE 2024
