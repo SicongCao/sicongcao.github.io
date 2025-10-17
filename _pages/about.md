@@ -42,7 +42,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 <span style="color:blue">Representative papers:</span> <span style="color:#B00C00">13</span> <span style="color:blue">CCF-A papers,</span> <span style="color:#B00C00">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**.   
-  Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>, Lili Bo, and Bin Li.  
+  Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
   In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2026. (<span style="color:#B00C00">CCF-A</span>)   
   [<span class="pdf">Paper</span>]()   
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.   
