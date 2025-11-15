@@ -42,6 +42,7 @@ I have published over 10 papers <a href='https://scholar.google.com/citations?us
 - `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**.   
   Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
   In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2026. (<span style="color:#B00C00">CCF-A</span>)   
+  <p><a class="media" href="./publications/USENIX25/USENIX25-Paper.pdf" target="_blank"><img src="./img_cs/pdf.png"></a>
   [<span class="pdf">Paper</span>]()   
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**.   
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
