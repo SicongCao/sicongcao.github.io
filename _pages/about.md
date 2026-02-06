@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.02*]</span> &nbsp;🎉 Invited to serve on the program committee (PC) of [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track) Research Track!
 - <span style="color:#B00C00">[*2025.10*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
 - <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Zhenlei!
 - <span style="color:#B00C00">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **CSUR**!
@@ -137,6 +138,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - ``CSUR`` [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Conference Activities
+- PC Member, ICSE 2027
 - Reviewer, CVPR 2026
 - PC Member, EASE 2026 AI Models / Data Track
 - Shadow PC, ICSE 2026
