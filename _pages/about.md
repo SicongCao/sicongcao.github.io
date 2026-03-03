@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our paper won the <span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>🏆 from ICSE 2026!
 - <span style="color:#B00C00">[*2026.02*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)!
 - <span style="color:#B00C00">[*2025.10*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
 - <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Zhenlei!
@@ -42,7 +43,8 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 ## Conference
 - `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
-  In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2026. (<span style="color:#B00C00">CCF-A</span>)   
+  In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2026. (<span style="color:#B00C00">CCF-A</span>)  
+  🏆<span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>  
 - `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**. <a class="media" href="./publications/USENIX25/USENIX25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)   
@@ -106,16 +108,17 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🎖 Honors and Awards
+- *2026.03*: 🏆ACM SIGSOFT Distinguish Paper Award, ICSE 2026
 - *2025.06*: Outstanding Graduate, Yangzhou University
 - *2024.11*: Principal Special Scholarship (1/15)
 - *2024.11*: National Scholarship
 - *2024.09*: ACM SIGSOFT CAPS Travel Funds, ASE 2024
-- *2024.09*: Grand Place (Freestyle/A-ST) of The 9th C4-Network Technology Challenge 🏆
+- *2024.09*: 🏆Grand Place (Freestyle/A-ST) of The 9th C4-Network Technology Challenge
 - *2024.02*: ACM SIGSOFT CAPS Travel Funds, ICSE 2024
 - *2023.11*: Principal Special Scholarship (1/15)
 - *2023.11*: National Scholarship
-- *2023.09*: 1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge 🏆
-- *2023.08*: BlockSys Best Paper Award
+- *2023.09*: 🏆1st Place (Freestyle/A) of The 8th C4-Network Technology Challenge
+- *2023.08*: 🏆Best Paper Award, BlockSys 2023
 - *2023.07*: China Scholarship Council (CSC) Scholarship
 - *2022.11*: Distinguished Doctoral Symposium, CCF ChinaSoft 2022 (1/13)
 - *2020.11*: Prototype Research Tool Award 2nd Place (Fixed topic) in CCF ChinaSoft 2020
