@@ -144,6 +144,8 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - PC Member, ICSE 2027
 - Reviewer, CVPR 2026
 - PC Member, EASE 2026 AI Models / Data Track
+- PC Member, SEKE 2026
+- PC Member, ICSS 2026
 - Shadow PC, ICSE 2026
 - PC Member, APSEC 2025 ERA Track
 - PC Member, EuroS&P 2025
