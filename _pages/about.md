@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Xingwei!
 - <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our paper won the <span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>🏆 from ICSE 2026!
 - <span style="color:#B00C00">[*2026.02*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)!
 - <span style="color:#B00C00">[*2025.10*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
@@ -39,7 +40,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:#B00C00">13</span> <span style="color:blue">CCF-A papers,</span> <span style="color:#B00C00">3</span> <span style="color:blue">JCR-Q1 papers</span>
+<span style="color:blue">Representative papers:</span> <span style="color:#B00C00">14</span> <span style="color:blue">CCF-A papers,</span> <span style="color:#B00C00">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
@@ -80,6 +81,9 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)    -->
 
 ## Journal
+- `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+  Xingwei Lin, <span style="color:blue">Sicong Cao</span>💌, Le Yu, Xiaobing Sun, Fu Xiao, Lei Xue, Chunming Wu, Kui Ren, and David Lo.  
+  In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
 - `TSC'25` **KG4VA: Constructing Vulnerability Knowledge Graph for Software Vulnerability Assessment**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Zhenlei Ye, Xiaobing Sun, Lili Bo, <span style="color:blue">Sicong Cao</span>, Xiaoxue Ren, Lianyong Qi, and Jiale Zhang.  
   In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
