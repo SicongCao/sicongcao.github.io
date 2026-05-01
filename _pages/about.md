@@ -81,7 +81,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)    -->
 
 ## Journal
-- `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+- `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?** <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Xingwei Lin, <span style="color:blue">Sicong Cao</span>💌, Le Yu, Xiaobing Sun, Fu Xiao, Lei Xue, Chunming Wu, Kui Ren, and David Lo.  
   In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
 - `TSC'25` **KG4VA: Constructing Vulnerability Knowledge Graph for Software Vulnerability Assessment**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
