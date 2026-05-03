@@ -21,8 +21,8 @@ I am currently an associate professor (pre-tenure track) at the School of Comput
 # 📚 Research Interest
 I have published over 20 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P, USENIX Sec) and journals (e.g., TOSEM, TDSC, CSUR). Currently, I focus on the following research topics:
 - Software Security: Vulnerability Detection (ICSE'24, ASE'24), Localization (ICSE'22, TOSEM'24), Classification (JOS'25, TII'24), Assessment (TSC'25), and Repair (TOSEM'25, ICSE'26)
-- OSS Security: Malicious Package Detection (SEC'25), Security Patch Management
-- Web Security: Web Application Fuzzing, Taint Analysis (S&P'23)
+- OSS Security: Malicious Package Detection (ASE'24, SEC'25), Security Patch Management (TSC'26)
+- Web Security: Web Application Fuzzing, Taint Analysis (ICSE'23, S&P'23)
 - LLM Security: Jailbreaking, LLM Framework Vulnerability Detection
 
 
