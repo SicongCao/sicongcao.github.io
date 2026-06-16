@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 One paper is accepted by **EMSE**! Congras to Yifan!
 - <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Xingwei!
 - <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our paper won the <span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>🏆 from ICSE 2026!
 - <span style="color:#B00C00">[*2026.02*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)!
@@ -100,12 +101,6 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**. <a class="media" href="./publications/TOSEM25/TOSEM25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
   Xin Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:#B00C00">CCF-A</span>)  
-- `TII'24` **Hierarchy-Aware Representation Learning for Industrial IoT Vulnerability Classification**. <a class="media" href="./publications/TII24/TII24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
-  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xinye Yang, Xiaoxue Wu, Wei Liu, and Bin Li.  
-  In *IEEE Transactions on Industrial Informatics*, 2024. (__IF2024: 11.7__, <span style="color:#B00C00">JCR-Q1</span>)  
-- `IoTJ'24` **EXVul: Towards Effective and Explainable Vulnerability Detection for IoT Devices**. <a class="media" href="./publications/IOT24/IOT24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
-  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Wei Liu, Di Wu, Jiale Zhang, Yan Li, Tom H. Luan, and Longxiang Gao.  
-  In *IEEE Internet of Things Journal*, 2024. (__IF2023: 10.6__, <span style="color:#B00C00">JCR-Q1</span>)  
 - `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**. <a class="media" href="./publications/TOSEM24/TOSEM24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, and Wei Liu.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:#B00C00">CCF-A</span>)    
