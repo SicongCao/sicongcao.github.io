@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)!
 - <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 One paper is accepted by **EMSE**! Congras to Yifan!
 - <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Xingwei!
 - <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our paper won the <span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>🏆 from ICSE 2026!
@@ -140,6 +141,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - ``CSUR`` [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Conference Activities
+- PC Member, USENIX Security 2027
 - PC Member, ICSE 2027
 - Reviewer, CVPR 2026
 - PC Member, EASE 2026 AI Models / Data Track
