@@ -42,7 +42,6 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
-<span style="color:blue">Representative papers:</span> <span style="color:#B00C00">14</span> <span style="color:blue">CCF-A papers,</span> <span style="color:#B00C00">3</span> <span style="color:blue">JCR-Q1 papers</span>
 ## Conference
 - `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
