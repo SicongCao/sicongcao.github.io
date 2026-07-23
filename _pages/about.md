@@ -140,18 +140,20 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - ``CSUR`` [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Conference Activities
+- PC Member, AAAI 2027
+- PC Member, APSEC 2026 (ERA Track)
 - PC Member, USENIX Security 2027
 - PC Member, ICSE 2027
 - Reviewer, CVPR 2026
-- PC Member, EASE 2026 AI Models / Data Track
+- PC Member, EASE 2026 (AI Models / Data Track)
 - PC Member, SEKE 2026
 - PC Member, ICSS 2026
 - Shadow PC, ICSE 2026
-- PC Member, APSEC 2025 ERA Track
+- PC Member, APSEC 2025 (ERA Track)
 - PC Member, EuroS&P 2025
 - Junior PC, MSR 2025
 - Shadow PC, ICSE 2025
-- PC Member, ASE 2024 Industry Track
+- PC Member, ASE 2024 (Industry Track)
 - Registration Chair, FSE 2024
 
 # 💻 Internships
