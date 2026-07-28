@@ -107,6 +107,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🎖 Honors and Awards
+- *2026.07*: Young Elite Scientists Sponsorship Program, JSAST
 - *2026.03*: 🏆ACM SIGSOFT Distinguish Paper Award, ICSE 2026
 - *2025.06*: Outstanding Graduate, Yangzhou University
 - *2024.11*: Principal Special Scholarship (1/15)
@@ -144,7 +145,6 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - PC Member, APSEC 2026 (ERA Track)
 - PC Member, USENIX Security 2027
 - PC Member, ICSE 2027
-- Reviewer, CVPR 2026
 - PC Member, EASE 2026 (AI Models / Data Track)
 - PC Member, SEKE 2026
 - PC Member, ICSS 2026
