@@ -33,11 +33,6 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - <span style="color:#B00C00">[*2026.03*]</span> &nbsp;🎉 Our paper won the <span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>🏆 from ICSE 2026!
 - <span style="color:#B00C00">[*2026.02*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)!
 - <span style="color:#B00C00">[*2025.10*]</span> &nbsp;🎉 One paper is accepted by **ICSE 2026**! Congras to Zhenlei!
-- <span style="color:#B00C00">[*2025.09*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Zhenlei!
-- <span style="color:#B00C00">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **CSUR**!
-- <span style="color:#B00C00">[*2025.07*]</span> &nbsp;🎉 One paper is accepted by **TDSC**! Congras to Mingxuan!
-- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **SEKE 2025**! Congras to Wenya!
-- <span style="color:#B00C00">[*2025.06*]</span> &nbsp;🎉 One paper is accepted by **USENIX Security 2025**! Congras to Xingan!
 
 
 # 📝 Selected Publications
