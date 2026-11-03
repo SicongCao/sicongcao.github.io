@@ -27,6 +27,7 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉 One paper is accepted by **TDSC**!
 - <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)!
 - <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 One paper is accepted by **EMSE**! Congras to Yifan!
 - <span style="color:#B00C00">[*2026.04*]</span> &nbsp;🎉 One paper is accepted by **TSC**! Congras to Xingwei!
@@ -77,6 +78,9 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)    -->
 
 ## Journal
+- `TDSC'26` **Lich: Towards Practical Vulnerability Detection with LLM-Assisted Causal Graph Learning**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+  <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Le Yu, Liping Han, Mingzhe Hu, Di Wu, Fu Xiao, and Minghui Xue.  
+  In *IEEE Transactions on Dependable and Secure Computing*, 2026. (__IF2026: 6.8__, <span style="color:#B00C00">CCF-A</span>)    
 - `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?** <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
   Xingwei Lin, <span style="color:blue">Sicong Cao</span>💌, Le Yu, Xiaobing Sun, Fu Xiao, Lei Xue, Chunming Wu, Kui Ren, and David Lo.  
   In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
