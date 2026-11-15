@@ -19,7 +19,7 @@ redirect_from:
 I am currently an associate professor (pre-tenure track) at the School of Computer Science, [Nanjing University of Posts and Telecommunications (NJUPT)](https://www.njupt.edu.cn/). I am also a research fellow at the School of Computer Science, [Nanjing University (NJU)](https://cs.nju.edu.cn/) advised by Prof. [Linzhang Wang](https://cs.nju.edu.cn/58/03/c2639a153603/page.htm). I got my Ph.D degree in March 2025 from the School of Information Engineering, Yangzhou University, China. I was very fortunate to work under the supervision of Prof. [Xiaobing Sun](https://risame.github.io/sun/) and Prof. [Wei Liu](https://xxgcxy.yzu.edu.cn/info/1020/4051.htm). From October 2023 to September 2024, I was a visiting student of Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo/) at Singapore Management University. I am open to collaboration and communication. If you want to share awesome ideas, feel free to contact me.
 
 # 📚 Research Interest
-I have published over 20 papers <a href='https://scholar.google.com/citations?user=c-vPF2gAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSicongCao%2Fsicongcao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international SE/Security conferences (e.g., ICSE, ASE, S&P, USENIX Sec) and journals (e.g., TOSEM, TDSC, CSUR). Currently, I focus on the following research topics:
+I have published over 30 papers at the top international SE/Security conferences (e.g., ICSE, ASE, S&P, USENIX Sec) and journals (e.g., TOSEM, TDSC, CSUR). Currently, I focus on the following research topics:
 - Software Security: Vulnerability Detection (ICSE'24, ASE'24), Localization (ICSE'22, TOSEM'24), Classification (JOS'25, TII'24), Assessment (TSC'25), and Repair (TOSEM'25, ICSE'26)
 - OSS Security: Malicious Package Detection (ASE'24, SEC'25), Security Patch Management (TSC'26)
 - Web Security: Web Application Fuzzing, Taint Analysis (ICSE'23, S&P'23)
@@ -140,11 +140,13 @@ I have published over 20 papers <a href='https://scholar.google.com/citations?us
 - ``CSUR`` [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Conference Activities
+- PC Member, EASE 2027 (AI Models / Data Track)
+- PC Member, WWW 2027
 - PC Member, AAAI 2027
-- PC Member, APSEC 2026 (ERA Track)
 - PC Member, USENIX Security 2027
 - PC Member, ICSE 2027
 - PC Member, EASE 2026 (AI Models / Data Track)
+- PC Member, APSEC 2026 (ERA Track)
 - PC Member, SEKE 2026
 - PC Member, ICSS 2026
 - Shadow PC, ICSE 2026
