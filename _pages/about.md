@@ -100,6 +100,7 @@ I have published over 30 papers at the top international SE/Security conferences
 - `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**. <a class="media" href="./publications/TOSEM25/TOSEM25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
   Xin Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:#B00C00">CCF-A</span>)  
+  🏆<span style="color:#B00C00">ESI Top 1% Highly Cited Paper</span>  
 - `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**. <a class="media" href="./publications/TOSEM24/TOSEM24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, and Wei Liu.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:#B00C00">CCF-A</span>)    
