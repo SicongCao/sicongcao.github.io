@@ -107,6 +107,7 @@ I have published over 30 papers at the top international SE/Security conferences
 
 
 # 🎖 Honors and Awards
+- *2026.09*: Outstanding Doctoral Dissertation Award, ACM Nanjing Chapter
 - *2026.07*: Young Elite Scientists Sponsorship Program, JSAST
 - *2026.03*: 🏆ACM SIGSOFT Distinguish Paper Award, ICSE 2026
 - *2025.06*: Outstanding Graduate, Yangzhou University
