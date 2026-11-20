@@ -27,6 +27,7 @@ I have published over 30 papers at the top international SE/Security conferences
 
 
 # 🔥 News
+- <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉 One paper is accepted by **JoS**! Congras to Zhou!
 - <span style="color:#B00C00">[*2026.11*]</span> &nbsp;🎉 One paper is accepted by **TDSC**!
 - <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 Invited to serve on the Program Committee of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)!
 - <span style="color:#B00C00">[*2026.06*]</span> &nbsp;🎉 One paper is accepted by **EMSE**! Congras to Yifan!
@@ -78,35 +79,39 @@ I have published over 30 papers at the top international SE/Security conferences
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=NS1ZTfOPnDk&t=1085s)    -->
 
 ## Journal
-- `TDSC'26` **Lich: Towards Practical Vulnerability Detection with LLM-Assisted Causal Graph Learning**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+- `软件学报'27` **基于多智能体协同的安全补丁定位方法**. <a class="media" href="" target="_blank"></a>   
+  余舟, <span style="color:blue">曹思聪</span>, 孙小兵.  
+  In *软件学报*, 2027. (<span style="color:#B00C00">中文CCF-A</span>)  
+- `TDSC'26` **Lich: Towards Practical Vulnerability Detection with LLM-Assisted Causal Graph Learning**. <a class="media" href="" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Le Yu, Liping Han, Mingzhe Hu, Di Wu, Fu Xiao, and Minghui Xue.  
   In *IEEE Transactions on Dependable and Secure Computing*, 2026. (__IF2026: 6.8__, <span style="color:#B00C00">CCF-A</span>)    
-- `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?** <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+- `TSC'26` **Code Language Models for Security Patch Management: How Far Are We?** <a class="media" href="" target="_blank"></a>   
   Xingwei Lin, <span style="color:blue">Sicong Cao</span>💌, Le Yu, Xiaobing Sun, Fu Xiao, Lei Xue, Chunming Wu, Kui Ren, and David Lo.  
   In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
-- `TSC'25` **KG4VA: Constructing Vulnerability Knowledge Graph for Software Vulnerability Assessment**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+- `TSC'25` **KG4VA: Constructing Vulnerability Knowledge Graph for Software Vulnerability Assessment**. <a class="media" href="" target="_blank"></a>   
   Zhenlei Ye, Xiaobing Sun, Lili Bo, <span style="color:blue">Sicong Cao</span>, Xiaoxue Ren, Lianyong Qi, and Jiale Zhang.  
   In *IEEE Transactions on Service Computing*, 2025. (__IF2025: 5.8__, <span style="color:#B00C00">CCF-A</span>)  
-- `CSUR'25` **A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**. <a class="media" href="./publications/CSUR25/CSUR25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `CSUR'25` **A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research**. <a class="media" href="./publications/CSUR25/CSUR25-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Ratnadira Widyasari, David Lo, Xiaoxue Wu, Lili Bo, Jiale Zhang, Bin Li, Wei Liu, Di Wu,
   and Yixin Chen.  
   In *ACM Computing Surveys*, 2025. (__IF2025: 28__, <span style="color:#B00C00">JCR-Q1</span>)   
-- `TDSC'25` **HgtJIT: Just-in-Time Vulnerability Detection based on Heterogeneous Graph Transformer**. <a class="media" href="./publications/TDSC25/TDSC25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `TDSC'25` **HgtJIT: Just-in-Time Vulnerability Detection based on Heterogeneous Graph Transformer**. <a class="media" href="./publications/TDSC25/TDSC25-Paper.pdf" target="_blank"></a>   
   Xiaobing Sun, Mingxuan Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaoxue Wu, Lili Bo, Di Wu, Bin Li, and Yang Xiang.  
   In *IEEE Transactions on Dependable and Secure Computing*, 2025. (__IF2025: 7.5__, <span style="color:#B00C00">CCF-A</span>)    
-- `软件学报'25` **基于结构感知图神经网络的多类别漏洞检测方法**. <a class="media" href="./publications/JOS25/JOS25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `软件学报'25` **基于结构感知图神经网络的多类别漏洞检测方法**. <a class="media" href="./publications/JOS25/JOS25-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">曹思聪</span>, 孙小兵, 薄莉莉, 吴潇雪, 李斌, 陈厅, 罗夏朴, 张涛, 刘维.  
   In *软件学报*, 2025. (<span style="color:#B00C00">中文CCF-A</span>)  
-- `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**. <a class="media" href="./publications/TOSEM25/TOSEM25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `TOSEM'25` **Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**. <a class="media" href="./publications/TOSEM25/TOSEM25-Paper.pdf" target="_blank"></a>   
   Xin Zhou, <span style="color:blue">Sicong Cao</span>💌, Xiaobing Sun, and David Lo.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2024: 6.6__, <span style="color:#B00C00">CCF-A</span>)  
   🏆<span style="color:#B00C00">ESI Top 1% Highly Cited Paper</span>  
-- `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**. <a class="media" href="./publications/TOSEM24/TOSEM24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `TOSEM'24` **Learning to Detect Memory-Related Vulnerabilities**. <a class="media" href="./publications/TOSEM24/TOSEM24-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, Xiaoxue Wu, Chuanqi Tao, Tao Zhang, and Wei Liu.  
   In *ACM Transactions on Software Engineering and Methodology*, 2024. (__IF2023: 4.4__, <span style="color:#B00C00">CCF-A</span>)    
 
 
 # 🎖 Honors and Awards
+- *2026.11*: 🏆Outstanding Doctoral Dissertation Award, JSCS
 - *2026.11*: 🏆Youth Science and Technology Award, JSCSA
 - *2026.09*: 🏆Outstanding Doctoral Dissertation Award, ACM Nanjing Chapter
 - *2026.07*: Young Elite Scientists Sponsorship Program, JSAST
