@@ -40,38 +40,38 @@ I have published over 30 papers at the top international SE/Security conferences
 # 📝 Selected Publications
 💌 <span style="color:#ff00fc">refers to the corresponding author</span>  
 ## Conference
-- `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**. <a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>   
+- `ICSE'26` **Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**. <a class="media" href="" target="_blank"></a>   
   Zhenlei Ye, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, and Bin Li.  
   In *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2026. (<span style="color:#B00C00">CCF-A</span>)  
   🏆<span style="color:#B00C00">ACM SIGSOFT Distinguish Paper Award</span>  
-- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**. <a class="media" href="./publications/USENIX25/USENIX25-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `USENIX Sec'25` **MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**. <a class="media" href="./publications/USENIX25/USENIX25-Paper.pdf" target="_blank"></a>   
   Xingan Gao, Xiaobing Sun, <span style="color:blue">Sicong Cao</span>💌, Kaifeng Huang, Di Wu, Xiaolei Liu, Xingwei Lin, and Yang Xiang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Sec)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)   
-- `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**. <a class="media" href="./publications/ASE24/ASE24-Papera.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `ASE'24` **Snopy: Bridging Sample Denoising with Causal Graph Learning for Effective Vulnerability Detection**. <a class="media" href="./publications/ASE24/ASE24-Papera.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Xiaolei Liu, Xingwei Lin, and Wei Liu.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
-- `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**. <a class="media" href="./publications/ASE24/ASE24-Paperb.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `ASE'24` **1+1>2: Integrating Deep Code Behaviors with Metadata Features for Malicious PyPI Package Detection**. <a class="media" href="./publications/ASE24/ASE24-Paperb.pdf" target="_blank"></a>   
   Xiaobing Sun, Xingan Gao, <span style="color:blue">Sicong Cao</span>💌, Lili Bo, Xiaoxue Wu, and Kaifeng Huang.  
   In *Proceedings of the 39th ACM/IEEE International Conference on Automated Software Engineering (ASE)*, October, 2024. (<span style="color:#B00C00">CCF-A</span>)   
-- `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**. <a class="media" href="./publications/ICSE24/ICSE24-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `ICSE'24` **Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**. <a class="media" href="./publications/ICSE24/ICSE24-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, and Wei Liu.  
   In *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE)*, April, 2024. (<span style="color:#B00C00">CCF-A</span>)   
   <!-- [<span class="pdf">Paper</span>](/publications/ICSE24/ICSE24-Paper.pdf)
   [<span class="slide">Slides</span>](/publications/ICSE24/ICSE24-Slides.pdf)
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=PlFAMJtvTmg)    -->
-- `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**. <a class="media" href="./publications/S&P23/SP23-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `S&P'23` **ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing**. <a class="media" href="./publications/S&P23/SP23-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Biao He, Xiaobing Sun, Yu Ouyang, Chao Zhang, Xiaoxue Wu, Ting Su, Lili Bo, Bin Li, Chuanlei Ma, Jiajia Li, and Tao Wei.  
   In *Proceedings of the 44th IEEE Symposium on Security and Privacy (S&P)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)   
   Presented at **BlackHat USA 2023** [[Talk Abstract](https://www.blackhat.com/us-23/briefings/schedule/#oddfuzz-hunting-java-deserialization-gadget-chains-via-structure-aware-directed-greybox-fuzzing-31367)]  
   <!-- [<span class="pdf">Paper</span>](/publications/S&P23/SP23-Paper.pdf)
   [<span class="slide">Slides</span>](/publications/S&P23/SP23-Slides.pdf)
   [<span class="video">Video</span>](https://www.youtube.com/watch?v=6Nu5sAl0NeY)    -->
-- `ICSE'23` **Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation**. <a class="media" href="./publications/ICSE23/ICSE23-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `ICSE'23` **Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation**. <a class="media" href="./publications/ICSE23/ICSE23-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Xiaoxue Wu, Lili Bo, Bin Li, Rongxin Wu, Wei Liu, Biao He, Yu Ouyang, and Jiajia Li.  
   In *Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2023. (<span style="color:#B00C00">CCF-A</span>)   
   <!-- [<span class="pdf">Paper</span>](/publications/ICSE23/ICSE23-Paper.pdf)
   [<span class="slide">Slides</span>](/publications/ICSE23/ICSE23-Slides.pdf)    -->
-- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**. <a class="media" href="./publications/ICSE22/ICSE22-Paper.pdf" target="_blank"><img src="./images/pdf.png"></a>   
+- `ICSE'22` **MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks**. <a class="media" href="./publications/ICSE22/ICSE22-Paper.pdf" target="_blank"></a>   
   <span style="color:blue">Sicong Cao</span>, Xiaobing Sun, Lili Bo, Rongxin Wu, Bin Li, and Chuanqi Tao.  
   In *Proceedings of the 44th IEEE/ACM International Conference on Software Engineering (ICSE)*, May, 2022. (<span style="color:#B00C00">CCF-A</span>)    
   <!-- [<span class="pdf">Paper</span>](/publications/ICSE22/ICSE22-Paper.pdf)
